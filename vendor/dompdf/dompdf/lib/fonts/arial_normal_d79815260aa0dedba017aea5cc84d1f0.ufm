@@ -1,0 +1,92 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2019 by CBRTEXT Studio. All rights reserved.
+FontName DEBROSEE
+FontSubfamily Regular
+UniqueID CBRTEXTStudio: DEBROSEE: 2019
+FullName DEBROSEE
+Version Version 1.000
+PostScriptName DEBROSEE
+Trademark DEBROSEE is a trademark of CBRTEXT Studio.
+Manufacturer CBRTEXT Studio
+Designer CBRTEXT Studio
+Description Copyright (c) 2019 by CBRTEXT Studio. All rights reserved.
+FontDesignerURL https://instagram.com/cbrtext.studio
+CompatibleFullName 䑅䉒体䕅
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -100
+FontHeightOffset 28
+Ascender 894
+Descender -144
+FontBBox 0 -144 756 894
+StartCharMetrics 60
+U 33 ; WX 192 ; N uni0021 ; G 57
+U 35 ; WX 576 ; N uni0023 ; G 58
+U 36 ; WX 540 ; N uni0024 ; G 59
+U 44 ; WX 192 ; N uni002c ; G 54
+U 46 ; WX 192 ; N uni002e ; G 53
+U 63 ; WX 480 ; N uni003f ; G 55
+U 64 ; WX 648 ; N uni0040 ; G 56
+U 65 ; WX 600 ; N uni0041 ; G 1
+U 66 ; WX 540 ; N uni0042 ; G 2
+U 67 ; WX 552 ; N uni0043 ; G 3
+U 68 ; WX 552 ; N uni0044 ; G 4
+U 69 ; WX 519 ; N uni0045 ; G 5
+U 70 ; WX 519 ; N uni0046 ; G 6
+U 71 ; WX 552 ; N uni0047 ; G 7
+U 72 ; WX 504 ; N uni0048 ; G 8
+U 73 ; WX 216 ; N uni0049 ; G 9
+U 74 ; WX 468 ; N uni004a ; G 10
+U 75 ; WX 540 ; N uni004b ; G 11
+U 76 ; WX 468 ; N uni004c ; G 12
+U 77 ; WX 600 ; N uni004d ; G 13
+U 78 ; WX 504 ; N uni004e ; G 14
+U 79 ; WX 600 ; N uni004f ; G 15
+U 80 ; WX 540 ; N uni0050 ; G 16
+U 81 ; WX 642 ; N uni0051 ; G 18
+U 82 ; WX 540 ; N uni0052 ; G 17
+U 83 ; WX 540 ; N uni0053 ; G 19
+U 84 ; WX 600 ; N uni0054 ; G 20
+U 85 ; WX 504 ; N uni0055 ; G 21
+U 86 ; WX 600 ; N uni0056 ; G 22
+U 87 ; WX 792 ; N uni0057 ; G 23
+U 88 ; WX 600 ; N uni0058 ; G 24
+U 89 ; WX 600 ; N uni0059 ; G 25
+U 90 ; WX 540 ; N uni005a ; G 26
+U 97 ; WX 600 ; N uni0061 ; G 27
+U 98 ; WX 540 ; N uni0062 ; G 28
+U 99 ; WX 552 ; N uni0063 ; G 29
+U 100 ; WX 552 ; N uni0064 ; G 30
+U 101 ; WX 519 ; N uni0065 ; G 31
+U 102 ; WX 519 ; N uni0066 ; G 32
+U 103 ; WX 552 ; N uni0067 ; G 33
+U 104 ; WX 504 ; N uni0068 ; G 34
+U 105 ; WX 216 ; N uni0069 ; G 35
+U 106 ; WX 468 ; N uni006a ; G 36
+U 107 ; WX 540 ; N uni006b ; G 37
+U 108 ; WX 468 ; N uni006c ; G 38
+U 109 ; WX 600 ; N uni006d ; G 39
+U 110 ; WX 504 ; N uni006e ; G 40
+U 111 ; WX 600 ; N uni006f ; G 41
+U 112 ; WX 540 ; N uni0070 ; G 42
+U 113 ; WX 642 ; N uni0071 ; G 43
+U 114 ; WX 540 ; N uni0072 ; G 44
+U 115 ; WX 540 ; N uni0073 ; G 45
+U 116 ; WX 600 ; N uni0074 ; G 46
+U 117 ; WX 504 ; N uni0075 ; G 47
+U 118 ; WX 600 ; N uni0076 ; G 48
+U 119 ; WX 792 ; N uni0077 ; G 49
+U 120 ; WX 600 ; N uni0078 ; G 50
+U 121 ; WX 600 ; N uni0079 ; G 51
+U 122 ; WX 540 ; N uni007a ; G 52
+EndCharMetrics
+StartKernData 
+StartKernPairs 2738
+EndKernPairs
+EndKernData
+EndFontMetrics
